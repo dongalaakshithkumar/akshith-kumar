@@ -1,5 +1,3 @@
-# akshith-kumar
-pipe flow calculator
 import math
 import streamlit as st
 
